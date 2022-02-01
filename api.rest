@@ -1,0 +1,14 @@
+###
+GET https://rickandmortyapi.com/api/character/
+
+###
+GET https://jsonplaceholder.typicode.com/users
+
+###
+POST 
+
+###
+PUT
+
+###
+DELETE
